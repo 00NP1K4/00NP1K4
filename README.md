@@ -21,10 +21,10 @@
 
 ***I'm delighted to see you here!***
 
-_Noah is a software engineer and a Pythonista with experience in web development (Python and Django), analyzing and visualizing data using various tools (Numpy, Pandas, Matplotlib) diving into machine learning and artificial intelligence. Also skilled in version control systems (Git), databases (SQL), and RESTful APIs. Noah is a developer with the ability to analyze and solve problems of high complexity and ambiguity and holds a B.Sc. degree in computer science and currently pursuing a certification in Software Engineering with the ALX SE program._
+_I am an entry-level data scientist and machine learning (ML) and artificial intelligence (AI) engineer with a great passion for transforming complex data into actionable insights. With a solid background in statistical analysis, programming, and data modeling. I am proficient in programming languages like Python, SQL, and R, Data visualization tools such as Tableau and D3.js, ML libraries such as Scikit-Learn, PyTorch, Tensorflow, and Keras, Big data analytics using PySpark, and deploying ML models in cloud environments such as Amazon Web Services (AWS) and Microsoft Azure ensuring scalable and efficient solutions. My expertise spans various domains including text analysis, natural language processing, computer vision, predictive modeling, etc._
 
 
-- 🌱 _I’m currently learning Data Science, Machine Learning and Artificial Intelligence._
+- 🌱 _Data Science, Machine Learning and Artificial Intelligence._
 - 😀 _I like reading, playing video games, programming/coding and solving problems._
 - 💞️ _I’m looking forward to collaborating and contributing to the open-source projects to work on real-world problems._
 - 📫 _You can reach me on my socials following the links above._
