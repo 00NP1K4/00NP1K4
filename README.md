@@ -21,15 +21,14 @@
 
 ***Welcome to my GitHub page, I'm delighted to see you here!***
 
-Noah is a data scientist, machine learning, and artificial intelligence engineer with a great passion for transforming complex data into actionable insights, bringing machine learning and artificial intelligence solutions to build data-centric software, and performing descriptive, diagnostic, predictive, and prescriptive analyses to foster the use of data-driven decisions to help improve several domains like healthcare, finance, business e.t.c. Noah has a solid background in computer science with a strong understanding of mathematics, statistics, programming, and software engineering. Noah is a curious person with great problem-solving skills, critical thinking, algorithmic thinking, and analytical skills. Noah also practices development and operations (DevOps) adopting agile methodologies and principles for collaborative development.
+Noah is a data scientist, machine learning, and artificial intelligence engineer with a great passion for transforming complex data into actionable insights, bringing machine learning and artificial intelligence solutions to build data-centric software, and performing descriptive, diagnostic, predictive, and prescriptive analyses to foster the use of data-driven decisions to help improve several domains like healthcare, finance, business e.t.c. Noah has a solid background in computer science with a strong understanding of mathematics, statistics, programming, and software engineering. Noah is a curious person with excellent problem-solving skills, critical thinking, algorithmic thinking, and analytical skills. Noah also practices development and operations (DevOps) adopting agile methodologies and principles for collaborative development.
 
 
-- 🌱 _Data Science, Machine Learning and Artificial Intelligence._
-- 😀 _I like reading, playing video games, programming/coding and solving problems._
-- 💞️ _I’m looking forward to collaborating and contributing to the open-source projects to work on real-world problems._
-- 📫 _You can reach me on my socials following the links above._
-- 💬 _Favorite Quote: "Talent without working hard is nothing." - CR7_
-- ⚡ _Open to work._
+- **Software Stack**: Python, Django, Flask, FastAPI.
+- **Data Stack**: Pandas, Numpy, SciPy, Matplotlib, Seaborn, PySpark, Sckit-Learn.
+- **Machine Learning and Artificial Intelligence**: Tensorflow, Pytorch, Scikit-Learn, NLP (Transformers, spaCy, NLTK), OpenCV.
+- **Cloud**: Azure, AWS, IBM Cloud, GCP.
+- **Containers**: Docker, Kubernetes.
 
 <!---
 00NP1K4/00NP1K4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
